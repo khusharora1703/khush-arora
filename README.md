@@ -1,2 +1,2 @@
 # khush-arora
-Auther - khush arora
+Author - khush arora
